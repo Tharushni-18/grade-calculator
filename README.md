@@ -1,10 +1,9 @@
 # grade-calculator
  student grade calculator description
  🧩 Project Title:
-
 🎓 Student Grade Calculator
-🟢 Basic Features
 
+🟢 Basic Features
 1.User Input:
 Accepts marks for multiple subjects (e.g., 5 subjects).
 
